@@ -12,8 +12,7 @@ It supports iOS 13.0+.
 
 ## What is provided in this package
 
-![Preview of JallGamePad]
-(docs/images/preview.png)
+![Preview of JallGamePad](docs/images/preview.png)
 A simple DPad (direction) and BPad (A,B,X,Y).
 
 ## How to use
